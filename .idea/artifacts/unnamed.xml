@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="archive" name="unnamed.jar">
+      <element id="module-output" name="WebApp" />
+      <element id="library" level="project" name="bootstrap" />
+      <element id="library" level="project" name="lib" />
+      <element id="javaee-facet-resources" facet="WebApp/web/Web" />
+    </root>
+  </artifact>
+</component>
